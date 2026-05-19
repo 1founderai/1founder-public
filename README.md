@@ -308,6 +308,6 @@ See [`/examples/sample-boardroom-output.json`](./examples/sample-boardroom-outpu
 
 **Built for Bharat. Available globally.**
 
-*1Founder is bootstrapped and pre-revenue. India-first.*
+*1Founder is bootstrapped with free and paid users. India-first.*
 
 </div>
